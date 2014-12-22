@@ -1,0 +1,9 @@
+#IPs com permissão de acesso ao Facebook
+#IPs comentados serão BLOQUEADOS
+#192.168.10.2 #recepcao
+192.168.10.3 #maq01
+192.168.10.4 #server
+#192.168.10.7 #notepamela
+#192.168.10.8 #wpdaniel
+#192.168.10.9 #wppamela
+#192.168.10.240 #assistencia
